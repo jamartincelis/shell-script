@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# This script is called for parentDocument
-# This script lets you present different menus to Tux. He will only be happy
-# when given a fish. To make it more fun, we added a couple more animals.
-
-
